@@ -21,3 +21,15 @@ this is content
 |quick sort|Time Complexity O(nlogn)|Space COmplexity O(1)|
 |merge sort|O(ologn)|ss|
 
+```java
+public main{
+    int a =1;
+}
+```
+
+```python
+def func:
+    int a = 1
+```
+
+this is a sentence ```code``` end.
