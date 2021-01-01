@@ -1,2 +1,5 @@
 This repo records my practices of leetcode.
-Class one: Github/Markdown/HTML. 
+
+# Github/Markdown/HTML/CSS/JS. 
+# Two pointers.
+
