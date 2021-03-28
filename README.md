@@ -23,3 +23,8 @@ Space complexity: 1.
 - Recurssion stopping condition
 
 [509. Fibonacci Number](LC/509.Fibonacci_Number.md)
+
+
+[190. Reverse Bits](LC/190.Reverse_Bits.md)
+
+[104. Maximum Depth of Binary Tree](LC/104.Maximum_Depth_of_Binary_Tree.md)
