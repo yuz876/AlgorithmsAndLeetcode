@@ -28,3 +28,7 @@ Space complexity: 1.
 [190. Reverse Bits](LC/190.Reverse_Bits.md)
 
 [104. Maximum Depth of Binary Tree](LC/104.Maximum_Depth_of_Binary_Tree.md)
+
+[704. Binary Search](LC/704.Binary_Search.md)
+
+[94. Binary Tree Inorder Traversal](LC/94.Binary_Tree_Inorder_Traversal.md)
