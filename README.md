@@ -36,3 +36,5 @@ Space complexity: 1.
 [144. Binary Tree Preorder Traversal](LC/144.Binary_Tree_Preorder_Traversal.md)
 
 [145. Binary Tree Postorder Traversal](LC/145.Binary_Tree_Postorder_Traversal.md) 
+
+[106. Construct Binary Tree from Inorder and Postorder Traversal](LC/106.Construct_Binary_Tree.md)
