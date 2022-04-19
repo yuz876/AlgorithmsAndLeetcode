@@ -5,13 +5,25 @@ This repo records my practices of leetcode.
 
 Time complexity: O(nlogn).
 
-Space complexity: 1.
+Space complexity: 
 
 1. Faced two pointers algorithm.
-  - Two Sum Type. [1.two sum](LC/1.two_sum.md),  [167. two sum ii sorted](), [1099. Two Sum Less Than K](LC/1099.Two_Sum_Less_Than_K.md), [15. Three Sum](LC/15.Three_Sum.md)[170. Two Sum III - Data structure design](LC/170.Two_Sum_III-Data_structure_design.md)[88. Merge Sorted Array](LC/88.Merge_Sorted_Array.md)
+  - Two Sum Type.
+    -  [1.two sum](LC/1.two_sum.md)
+    -  [167. Two Sum II - Input Array Is Sorted](LC/167.Two_Sum_II-Input_Array_Is_Sorted.md)
+    -  [1099. Two Sum Less Than K](LC/1099.Two_Sum_Less_Than_K.md)
+    -  [15. Three Sum](LC/15.Three_Sum.md)
+    -  [170. Two Sum III - Data structure design](LC/170.Two_Sum_III-Data_structure_design.md)
+    -  [88. Merge Sorted Array](LC/88.Merge_Sorted_Array.md)
 
-  - Reverse Type. [125. Valid Palindrome](LC/125.Valid_Palindrome.md), [680. Valid Palindrome II](LC/680.Valid_Palindrome_II.md)
-  - Partition Type. [quick sort and merge sort](note/quick_sort_and_merge_sort.md), [912. sort an array](LC/912.sort_an_array.md), [215. Kth Largest Element in an Array](LC/215.Kth_Largest_Element_in_an_Array.md)
+
+  - Reverse Type. 
+    - [125. Valid Palindrome](LC/125.Valid_Palindrome.md)
+    - [680. Valid Palindrome II](LC/680.Valid_Palindrome_II.md)
+  
+  - Partition Type. [quick sort and merge sort](note/quick_sort_and_merge_sort.md)
+    -  [912. sort an array](LC/912.sort_an_array.md)
+    -   [215. Kth Largest Element in an Array](LC/215.Kth_Largest_Element_in_an_Array.md)
 
 
 # Recurssion, BST, Stack, Heap
@@ -36,11 +48,16 @@ Space complexity: 1.
 
 [145. Binary Tree Postorder Traversal](LC/145.Binary_Tree_Postorder_Traversal.md) 
 
-[206. Reverse Linked List](LC/206.md)
+[206. Reverse Linked List](LC/206.Reverse_Linked_List.md)
 
-[106. Construct Binary Tree from Inorder and Postorder Traversal](LC/106.Construct_Binary_Tree.md)
+[105. Construct Binary Tree from Preorder and Inorder Traversal](LC/105.Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.md)
 
-[105. Construct Binary Tree from Preorder and Inorder Traversal](LC/105.md)
+[106. Construct Binary Tree from Postrder and Inorder Traversal](LC/106.Construct_Binary_Tree_from_Postorder_and_Inorder_Traversal.md)
+
+
+[1008. Construct Binary Search Tree from Preorder Traversal](LC/1008.Construct_Binary_Search_Tree_from_Preorder_Traversal.md)
+
+[889. Construct Binary Tree from Preorder and Postorder Traversal](LC/889.Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal.md)
 
 
 
