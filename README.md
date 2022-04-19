@@ -8,10 +8,10 @@ Time complexity: O(nlogn).
 Space complexity: 1.
 
 1. Faced two pointers algorithm.
-  - Two Sum Type. [1.two sum](LC/1.two_sum.md),  [167. two sum ii sorted](), [1099. Two Sum Less Than K](LC/1099.Two_Sum_Less_Than_K.md), [15. Three Sum](LC/15.Three_Sum.md)
+  - Two Sum Type. [1.two sum](LC/1.two_sum.md),  [167. two sum ii sorted](), [1099. Two Sum Less Than K](LC/1099.Two_Sum_Less_Than_K.md), [15. Three Sum](LC/15.Three_Sum.md)[170. Two Sum III - Data structure design](LC/170.Two_Sum_III-Data_structure_design.md)[88. Merge Sorted Array](LC/88.Merge_Sorted_Array.md)
 
   - Reverse Type. [125. Valid Palindrome](LC/125.Valid_Palindrome.md), [680. Valid Palindrome II](LC/680.Valid_Palindrome_II.md)
-  - Partition Type. 
+  - Partition Type. [quick sort and merge sort](note/quick_sort_and_merge_sort.md), [912. sort an array](LC/912.sort_an_array.md), [215. Kth Largest Element in an Array](LC/215.Kth_Largest_Element_in_an_Array.md)
 
 
 # Recurssion, BST, Stack, Heap
