@@ -71,8 +71,17 @@ Space complexity:
 
 - [153. Find Minimum in Rotated Sorted Array](LC/153.Find_Minimum_in_Rotated_Sorted_Array.md)
 
-- 
+- [69. Sqrt(x)](LC/69.Sqrt(x).md)
+  
+- [162. Find Peak Element](LC/162._Find_Peak_Element.md)
+  
+- [33. Search in Rotated Sorted Array](LC/33.Search_in_Rotated_Sorted_Array.md)
 
+- [81. Search in Rotated Sorted Array II](LC/81.Search_in_Rotated_Sorted_Array_II.md)
+
+- [154. Find Minimum in Rotated Sorted Array II](LC/154.Find_Minimum_in_Rotated_Sorted_Array_II.md)
+
+- [1901. Find a Peak Element II](LC/1901.Find_a_Peak_Element_II.md)
 
 # Other
 ## [Github/Markdown/HTML/CSS/JS.](basic/)
