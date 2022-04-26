@@ -88,7 +88,37 @@ Space complexity:
 
 ### Implement Queue:
 
-[232. Implement Queue using Stacks](LC/232.Implement_Queue_using_Stacks.md)
+- [232. Implement Queue using Stacks](LC/232.Implement_Queue_using_Stacks.md)
+
+- [225. Implement Stack using Queues](LC/225.Implement_Stack_using_Queues.md)
+
+
+# BFS
+- [102. Binary Tree Level Order Traversal](LC/102.Binary_Tree_Level_Order_Traversal.md)
+
+
+### If only use:
+|Java Queue Method (directly use this column)|	Equivalent Deque Method|
+|-|-|
+|add(e)	|addLast(e)|
+|offer(e)	|offerLast(e)|
+|remove()	|removeFirst()|
+|poll()	|pollFirst()|
+|element()	|getFirst()|
+|peek()	|peekFirst()|
+
+
+> instance: Queue/Deque<E> myqueue = new ArrayDeque/LinkedList<E>(); (left is head/first)
+
+|Java Stack Method (directly use this column)|	Equivalent Deque Method|
+|-|-|
+|push(e)	|addFirst(e)|
+|pop()	|removeFirst()|
+|peek()	|peekFirst()|
+
+
+> instance: Deque<E> mystack = new ArrayDeque/LinkedList<E>(); (left is top)
+
 
 # Other
 ## [Github/Markdown/HTML/CSS/JS.](basic/)
