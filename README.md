@@ -84,12 +84,13 @@ Space complexity:
 - [1901. Find a Peak Element II](LC/1901.Find_a_Peak_Element_II.md)
 
 
+
+
 # Queue/Stack
 
 ### Implement Queue:
 
 - [232. Implement Queue using Stacks](LC/232.Implement_Queue_using_Stacks.md)
-
 - [225. Implement Stack using Queues](LC/225.Implement_Stack_using_Queues.md)
 
 
@@ -106,7 +107,7 @@ Space complexity:
 ## Topological Sorting
 - [207. Course Schedule](LC/207.Course_Schedule.md)
 - [210. Course Schedule II](LC/210.Course_Schedule_II.md)
-- 
+- [444. Sequence Reconstruction](LC/444.Sequence_Reconstruction.md)
 
 ### If only use:
 |Java Queue Method (directly use this column)|	Equivalent Deque Method|
