@@ -94,8 +94,19 @@ Space complexity:
 
 
 # BFS
+## Traversal all leaves:
 - [102. Binary Tree Level Order Traversal](LC/102.Binary_Tree_Level_Order_Traversal.md)
+- [1197. Minimum Knight Moves](LC/1197.Minimum_Knight_Moves.md)
+  
+## Connected node:
+- [127. Word Ladder](LC/127.Word_Ladder.md)
+- [133. Clone Graph](LC/133.Clone_Graph.md)
+- [200. Number of Islands](LC/200.Number_of_Islands.md)
 
+## Topological Sorting
+- [207. Course Schedule](LC/207.Course_Schedule.md)
+- [210. Course Schedule II](LC/210.Course_Schedule_II.md)
+- 
 
 ### If only use:
 |Java Queue Method (directly use this column)|	Equivalent Deque Method|
