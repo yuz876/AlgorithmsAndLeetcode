@@ -1,13 +1,13 @@
 This repo records my practices of leetcode.
 
 
-# Two pointers.
+# 1. Two pointers.
 
 Time complexity: O(nlogn).
 
 Space complexity: 
 
-1. Faced two pointers algorithm.
+1.1. Faced two pointers algorithm.
   - Two Sum Type.
     -  [1.two sum](LC/1.two_sum.md) Template
     -  [167. Two Sum II - Input Array Is Sorted](LC/167.Two_Sum_II-Input_Array_Is_Sorted.md)
@@ -26,7 +26,7 @@ Space complexity:
     -   [215. Kth Largest Element in an Array](LC/215.Kth_Largest_Element_in_an_Array.md)
 
 
-# Recurssion, BST, Stack, Heap
+# 2. Recurssion, BST, Stack, Heap
 
 ## Recurssion 3 key elements:
 1. Recurssion definition
@@ -59,7 +59,7 @@ Space complexity:
   
 - [1008. Construct Binary Search Tree from Preorder Traversal](LC/1008.Construct_Binary_Search_Tree_from_Preorder_Traversal.md)
 
-# Binary Search
+# 3. Binary Search
 
 [Binary Search template](note/binary_search_template.md)
 
@@ -86,32 +86,8 @@ Space complexity:
 
 
 
-# Queue/Stack
+# 4. Queue/Stack
 
-### Implement Queue:
-
-- [232. Implement Queue using Stacks](LC/232.Implement_Queue_using_Stacks.md)
-- [225. Implement Stack using Queues](LC/225.Implement_Stack_using_Queues.md)
-
-
-# BFS
-## Traversal all leaves:
-- [102. Binary Tree Level Order Traversal](LC/102.Binary_Tree_Level_Order_Traversal.md)
-- [1197. Minimum Knight Moves](LC/1197.Minimum_Knight_Moves.md)
-  
-## Connected component:
-- [127. Word Ladder](LC/127.Word_Ladder.md)
-- [133. Clone Graph](LC/133.Clone_Graph.md)
-- [200. Number of Islands](LC/200.Number_of_Islands.md)
-
-## Topological Sorting
-- [207. Course Schedule](LC/207.Course_Schedule.md)
-- [210. Course Schedule II](LC/210.Course_Schedule_II.md)
-- [444. Sequence Reconstruction](LC/444.Sequence_Reconstruction.md)
-- [269. Alien Dictionary](LC/269.Alien_Dictionary.md)
-## More tree and connect component
-- [261. Graph Valid Tree](LC/261.Graph_Valid_Tree.md)
-- [323. Number of Connected Components in an Undirected Graph](LC/323.Number_of_Connected_Components_in_an_Undirected_Graph.md)
 ### If only use:
 |Java Queue Method (directly use this column)|	Equivalent Deque Method|
 |-|-|
@@ -134,6 +110,35 @@ Space complexity:
 
 > instance: Deque<E> mystack = new ArrayDeque/LinkedList<E>(); (left is top)
 
+
+
+### Implement Queue:
+
+- [232. Implement Queue using Stacks](LC/232.Implement_Queue_using_Stacks.md)
+  
+### Implement Stack:
+- [225. Implement Stack using Queues](LC/225.Implement_Stack_using_Queues.md)
+
+
+# 5. BFS
+## 5.1 Three types of BFS problems:
+### 5.1.1 Traversal all leaves:
+- [102. Binary Tree Level Order Traversal](LC/102.Binary_Tree_Level_Order_Traversal.md) BFS on Tree
+- [1197. Minimum Knight Moves](LC/1197.Minimum_Knight_Moves.md) BFS on Matrix
+  
+### 5.1.2 Connected component:
+- [127. Word Ladder](LC/127.Word_Ladder.md)
+- [133. Clone Graph](LC/133.Clone_Graph.md)
+- [200. Number of Islands](LC/200.Number_of_Islands.md)
+
+### 5.1.3 Topological Sorting
+- [207. Course Schedule](LC/207.Course_Schedule.md)
+- [210. Course Schedule II](LC/210.Course_Schedule_II.md)
+- [444. Sequence Reconstruction](LC/444.Sequence_Reconstruction.md)
+- [269. Alien Dictionary](LC/269.Alien_Dictionary.md)
+## 5.2 More BFS on Graph
+- [261. Graph Valid Tree](LC/261.Graph_Valid_Tree.md)
+- [323. Number of Connected Components in an Undirected Graph](LC/323.Number_of_Connected_Components_in_an_Undirected_Graph.md)
 
 # Other
 ## [Github/Markdown/HTML/CSS/JS.](basic/)
