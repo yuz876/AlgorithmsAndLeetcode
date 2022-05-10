@@ -142,5 +142,14 @@ Space complexity:
 - [261. Graph Valid Tree](LC/261.Graph_Valid_Tree.md)
 - [323. Number of Connected Components in an Undirected Graph](LC/323.Number_of_Connected_Components_in_an_Undirected_Graph.md)
 
+# Hash
+## HashSet
+- [705. Design HashSet](LC/705.Design_HashSet.md)
+## HashMap
+- [706. Design HashMap](LC/706.Design_HashMap.md)
+  
+# DFS
+- [78. Subsets](LC/78.Subsets.md)
+
 # Other
 ## [Github/Markdown/HTML/CSS/JS.](basic/)
