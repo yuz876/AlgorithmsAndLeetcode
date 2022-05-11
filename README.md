@@ -149,8 +149,11 @@ Space complexity:
 - [706. Design HashMap](LC/706.Design_HashMap.md)
   
 # 7. DFS
-- [78. Subsets](LC/78.Subsets.md)
-- [90. Subsets II](LC/90.Subsets_II.md)
-
+- 7.1 Subset
+  - [78. Subsets](LC/78.Subsets.md)
+  - [90. Subsets II](LC/90.Subsets_II.md)
+  
+- 7.2 Permutation
+  - [46. Permutations](LC/46.Permutations.md)
 # Other
 ## [Github/Markdown/HTML/CSS/JS.](basic/)
