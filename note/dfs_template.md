@@ -22,3 +22,40 @@ class Solution:
 ## Runtime calculate:
 - Sorting problem = O(n! * n) 
 - permutations = O(2^n * n)
+
+
+## Method 2:
+
+```py
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        if not nums:
+            return []
+        
+        results = []
+        self.dfs(nums, 0, [], results)
+        return results
+        
+    # 1. recursion definition
+    def dfs(self, nums, curr_index, curr_subset, results):
+        # 3. recursion stopping
+        if curr_index >= len(nums):
+            # deep copy
+            results.append(list(curr_subset))
+            # results.add(new ArrayList<>(curr_subset));
+            return
+        
+        # 2. recursion divide
+        # option 1 add the element
+        curr_subset.append(nums[curr_index])
+        self.dfs(nums, curr_index + 1, curr_subset, results)
+        
+        # option 2 don't add the element
+        curr_subset.remove(nums[curr_index])#backtracking
+        self.dfs(nums, curr_index + 1, curr_subset, results)
+        
+ # [1 2 3]
+ #  1 0 0 -> [1]
+ #  1 0 1 -> [1, 3]
+ #  0 1 1 -> [2, 3]
+```

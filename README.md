@@ -139,7 +139,7 @@ Space complexity:
 - [210. Course Schedule II](LC/210.Course_Schedule_II.md)
 - [444. Sequence Reconstruction](LC/444.Sequence_Reconstruction.md)
 - [269. Alien Dictionary](LC/269.Alien_Dictionary.md)
-## 5.2 More BFS on Graph
+## 5.2 More BFS on Graph 
 - [261. Graph Valid Tree](LC/261.Graph_Valid_Tree.md)
 - [323. Number of Connected Components in an Undirected Graph](LC/323.Number_of_Connected_Components_in_an_Undirected_Graph.md)
 
@@ -158,5 +158,8 @@ Space complexity:
 - 7.2 Permutation
   - [46. Permutations](LC/46.Permutations.md)
   - [39. Combination Sum](LC/39.Combination_Sum.md)
+  - [40. Combination Sum II](LC/40.Combination_Sum_II.md)
+  - [216. Combination Sum III](LC/216.Combination_Sum_III.md)
+  - [77. Combinations](LC/77.Combinations.md)
 # Other
 ## [Github/Markdown/HTML/CSS/JS.](basic/)
