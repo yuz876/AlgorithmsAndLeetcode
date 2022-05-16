@@ -67,7 +67,7 @@ Space complexity:
 
 - [852. Peak Index in a Mountain Array](LC/852.Peak_Index_in_a_Mountain_Array.md)
 
-- [658. Find K Closest Elements](LC/658._Find_K_Closest_Elements.md)
+- [658. Find K Closest Elements](LC/658.Find_K_Closest_Elements.md)
 
 - [153. Find Minimum in Rotated Sorted Array](LC/153.Find_Minimum_in_Rotated_Sorted_Array.md)
 
@@ -121,7 +121,8 @@ Space complexity:
 
 
 
-# 5. BFS
+# 5. BFS 
+[BFS template](note/bfs.md)
 
 ## 5.1 Three types of BFS problems:
 ### 5.1.1 Traversal all leaves:
@@ -148,12 +149,14 @@ Space complexity:
 ## 6.2 HashMap
 - [706. Design HashMap](LC/706.Design_HashMap.md)
   
-# 7. DFS
+# 7. DFS 
+[DFS Template](note/dfs_template.md)
 - 7.1 Subset
   - [78. Subsets](LC/78.Subsets.md)
   - [90. Subsets II](LC/90.Subsets_II.md)
   
 - 7.2 Permutation
   - [46. Permutations](LC/46.Permutations.md)
+  - [39. Combination Sum](LC/39.Combination_Sum.md)
 # Other
 ## [Github/Markdown/HTML/CSS/JS.](basic/)
