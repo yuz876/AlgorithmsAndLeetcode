@@ -16,7 +16,7 @@ class Solution:
             curr_subset.append(nums[i]) # [1] -> [1, 2]
             self.dfs(nums, i + 1, curr_subset, results)
             # backtracking [1, 2] -> [1] this is for next iteration it can do [1] -> [1, 3]
-            curr_subset.remove(nums[i])
+            curr_subset.remove(nums[i]) # also can use curr_subset.pop() to avoid deleting first element when multiple elements are same.
 ```
 
 ## Runtime calculate:
@@ -51,8 +51,8 @@ class Solution:
         self.dfs(nums, curr_index + 1, curr_subset, results)
         
         # option 2 don't add the element
-        curr_subset.remove(nums[curr_index])#backtracking
-        self.dfs(nums, curr_index + 1, curr_subset, results)
+        curr_subset.remove(nums[curr_index])#backtracking # also can use curr_subset.pop() to avoid deleting first element when multiple elements are same.
+        self.dfs(nums, curr_index + 1, curr_subset, results) 
         
  # [1 2 3]
  #  1 0 0 -> [1]
