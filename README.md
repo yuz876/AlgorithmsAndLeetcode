@@ -86,6 +86,7 @@ Space complexity:
 
 
 
+
 # 4. Queue/Stack
 
 ### If only use:
@@ -161,5 +162,10 @@ Space complexity:
   - [40. Combination Sum II](LC/40.Combination_Sum_II.md)
   - [216. Combination Sum III](LC/216.Combination_Sum_III.md)
   - [77. Combinations](LC/77.Combinations.md)
+  - [47. Permutations II](LC/47.Permutations_II.md)
+  - [17. Letter Combinations of a Phone Number](LC/17.Letter_Combinations_of_a_Phone_Number.md)
+
+- 7.3
+  - [79. Word Search](LC/79.Word_Search.md)
 # Other
 ## [Github/Markdown/HTML/CSS/JS.](basic/)
