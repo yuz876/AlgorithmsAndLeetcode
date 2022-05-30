@@ -164,6 +164,7 @@ Space complexity:
   - [77. Combinations](LC/77.Combinations.md)
   - [47. Permutations II](LC/47.Permutations_II.md)
   - [17. Letter Combinations of a Phone Number](LC/17.Letter_Combinations_of_a_Phone_Number.md)
+  - [212. Word Search II](LC/212.Word_Search_II.md)
 
 - 7.3
   - [79. Word Search](LC/79.Word_Search.md)
