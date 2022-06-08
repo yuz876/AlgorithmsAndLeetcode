@@ -2,7 +2,11 @@
 
 ```py
 def bfs():
-    queue = collections.deque([root1, root2])
+    queue = collections.deque()
+    queue.append(root)
+    
+    queue = collections.deque([root])
+    queue = collections.deque([root1, root2]) 
     visited_and_distance = {root1: 0, root2: 0}
 
     while  queue:
