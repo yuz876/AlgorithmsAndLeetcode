@@ -1,5 +1,25 @@
 # BFS template
 
+## layer by layer
+```py
+def bfs():
+    queue = collections.deque([root1, root2]) 
+    visited_and_distance = {root1: 0, root2: 0}
+
+    while  queue:
+        currlength = len(queue) # each layer
+        for _ in range(currlength):
+            currnode = queue.popleft()
+            for child/neighbor in currnode.getAllNeighbors():
+                if neighbor in visited:
+                    continue
+                queue.apeend(neighbor)
+                visited_and_distance[neighbor] =  visited_and_distance[currnode] + 1
+            
+    
+```
+
+## More general
 ```py
 def bfs():
     queue = collections.deque()
