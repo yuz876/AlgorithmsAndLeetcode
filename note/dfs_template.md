@@ -1,3 +1,4 @@
+# More general 
 ```py
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
@@ -24,7 +25,7 @@ class Solution:
 - permutations = O(2^n * n)
 
 
-## Method 2:
+## Method 2: (Combinations special, take or not-take)
 
 ```py
 class Solution:
