@@ -151,23 +151,31 @@ Space complexity:
 - [706. Design HashMap](LC/706.Design_HashMap.md)
   
 # 7. DFS 
+ 
+  Except Binary Tree, 90% DFS problesm are Combinations or Permutations.
+  
 [DFS Template](note/dfs_template.md)
-- 7.1 Subset
+- 7.1 Combinations
   - [78. Subsets](LC/78.Subsets.md)
-  - [90. Subsets II](LC/90.Subsets_II.md)
+    - [90. Subsets II](LC/90.Subsets_II.md)
+  - [77. Combinations](LC/77.Combinations.md)
+  - [39. Combination Sum](LC/39.Combination_Sum.md)
+    - [40. Combination Sum II](LC/40.Combination_Sum_II.md)
+    - [216. Combination Sum III](LC/216.Combination_Sum_III.md)
   
 - 7.2 Permutation
   - [46. Permutations](LC/46.Permutations.md)
-  - [39. Combination Sum](LC/39.Combination_Sum.md)
-  - [40. Combination Sum II](LC/40.Combination_Sum_II.md)
-  - [216. Combination Sum III](LC/216.Combination_Sum_III.md)
-  - [77. Combinations](LC/77.Combinations.md)
-  - [47. Permutations II](LC/47.Permutations_II.md)
+    - [47. Permutations II](LC/47.Permutations_II.md)
+  - Next Permutation
+    - [31. Next Permutation](LC/31.Next_Permutation.md)
+  
+ - DFS on matrix:
   - [17. Letter Combinations of a Phone Number](LC/17.Letter_Combinations_of_a_Phone_Number.md)
-  - [212. Word Search II](LC/212.Word_Search_II.md)
-
-- 7.3
   - [79. Word Search](LC/79.Word_Search.md)
+    - [212. Word Search II](LC/212.Word_Search_II.md)
   - [126. Word Ladder II](LC/126.Word_Ladder_II.md)
+ 
+
+  
 # Other
 ## [Github/Markdown/HTML/CSS/JS.](basic/)
