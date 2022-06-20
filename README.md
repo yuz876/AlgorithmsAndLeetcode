@@ -174,6 +174,10 @@ Space complexity:
   - [79. Word Search](LC/79.Word_Search.md)
     - [212. Word Search II](LC/212.Word_Search_II.md)
   - [126. Word Ladder II](LC/126.Word_Ladder_II.md)
+
+  - [37. Sudoku Solver](LC/37.Sudoku_Solver.md)
+    - [36. Valid Sudoku 
+    (37 Prep not using dfss)](LC/36.Valid_Sudoku.md)
  
 
 # Other
