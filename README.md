@@ -143,6 +143,7 @@ Space complexity:
 ## 5.2 More BFS on Graph 
 - [261. Graph Valid Tree](LC/261.Graph_Valid_Tree.md)
 - [323. Number of Connected Components in an Undirected Graph](LC/323.Number_of_Connected_Components_in_an_Undirected_Graph.md)
+- [297. Serialize and Deserialize Binary Tree](LC/297.Serialize_and_Deserialize_Binary_Tree.md)
 
 # 6.Hash
 ## 6.1 HashSet
