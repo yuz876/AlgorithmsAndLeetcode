@@ -125,6 +125,8 @@ Space complexity:
 # 5. BFS 
 [BFS template](note/bfs.md)
 
+[Bi-BFS template](note/bi-bfs.md)
+
 ## 5.1 Three types of BFS problems:
 ### 5.1.1 Traversal all leaves:
 - [102. Binary Tree Level Order Traversal](LC/102.Binary_Tree_Level_Order_Traversal.md) BFS on Tree
@@ -144,6 +146,9 @@ Space complexity:
 - [261. Graph Valid Tree](LC/261.Graph_Valid_Tree.md)
 - [323. Number of Connected Components in an Undirected Graph](LC/323.Number_of_Connected_Components_in_an_Undirected_Graph.md)
 - [297. Serialize and Deserialize Binary Tree](LC/297.Serialize_and_Deserialize_Binary_Tree.md)
+
+## 5.3 Bi-BFS
+- [1197. Minimum Knight Moves](LC/1197.Minimum_Knight_Moves.md) 
 
 # 6.Hash
 ## 6.1 HashSet
