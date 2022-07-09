@@ -186,5 +186,12 @@ Space complexity:
     (37 Prep not using dfss)](LC/36.Valid_Sudoku.md)
  
 
+# 7.DC
+[Binary tree DC template](note/binary_tree_DC_template.md)
+- [257. Binary Tree Paths](LC/257.Binary_Tree_Paths.md)
+- [110. Balanced Binary Tree](LC/110.Balanced_Binary_Tree.md)
+- [1120. Maximum Average Subtree](LC/1120.Maximum_Average_Subtree.md)
+- [104. Maximum Depth of Binary Tree](LC/104.Maximum_Depth_of_Binary_Tree.md)
+
 # Other
 ## [Github/Markdown/HTML/CSS/JS.](basic/)
