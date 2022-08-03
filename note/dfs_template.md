@@ -10,7 +10,8 @@ class Solution:
         return results
     
     def dfs(self, nums, curr_index, curr_subset, results):
-        results.append(list(curr_subset))
+        if condition :
+            results.append(list(curr_subset))
         
         for i in range(curr_index, len(nums)):# only consider nums after curr_index
             # add all options except themselves
